@@ -1,0 +1,5 @@
+node_modules/
+.idea/
+public/dist/
+.env.development
+.env.test
